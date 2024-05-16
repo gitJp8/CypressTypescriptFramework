@@ -1,0 +1,27 @@
+{
+  "name": "cypresstypescriptframework",
+  "version": "1.0.0",
+  "description": "Pom Example using Typescript and Cypress Introduction This project comprehends a POC for Salesforce flows automation using Typescript and Cypress. Currently, it logs into Salesforce, goes to the Opportunities page, searches for a specific Opportunity and accesses the Opportunity page",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gitJp8/CypressTypescriptFramework.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gitJp8/CypressTypescriptFramework/issues"
+  },
+  "homepage": "https://github.com/gitJp8/CypressTypescriptFramework#readme",
+  "dependencies": {
+    "cypress": "^13.9.0",
+    "cypress-iframe": "^1.0.1",
+    "cypress-xpath": "^2.0.1",
+    "mocha": "^10.3.0",
+    "typescript": "^4.1.6"
+  }
+}

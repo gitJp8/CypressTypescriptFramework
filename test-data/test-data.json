@@ -1,0 +1,10 @@
+{
+    "baseURL": "https://www.saucedemo.com/",
+    "user": [
+        {"username": "standard_user", "password": "secret_sauce"}
+    ],
+    "expectedOutcomes": [
+        {"outcome1": "expectedOutcome1"},
+        {"outcome2": "expectedOutcome2"}
+    ]
+}
